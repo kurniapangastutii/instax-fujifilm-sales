@@ -133,6 +133,11 @@ Revenue per item across sales channels is fairly consistent, with the website sl
 - Optimize discount timing – Focus discount campaigns during peak periods (January, December, and weekends) to maximize impact, rather than applying discounts evenly throughout the year
 
 - Maintain channel & payment consistency – Since performance is relatively balanced, ensure all sales channels and payment methods remain optimized and available
+- 
+---
+
+## 📝 Conclussion
+The business showed strong growth from 2023 to 2024, but early 2025 indicates a possible slowdown. Revenue is driven by a few key products, while customer behavior across payment methods, sales channels, and discounts remains consistent. Moving forward, the business should focus on maintaining growth and reducing reliance on top products for more stable performance. 
 
 
 
