@@ -102,6 +102,25 @@ This project aims to:
 
 ## 🔍 Key Insights
 
+### 📈 Strong Growth, but Recent Slowdown
+
+Revenue has grown from 2023 to 2024 (+24.31%). Early 2025 performance (Jan–May) has weakened compared to last year, signaling a potential need for strategic adjustments to sustain growth.
+
+###🏆 Revenue is Driven by a Few Key Products
+
+Most of the revenue comes from just a few products, especially Instax Mini Evo. This means the business depends heavily on a small number of top products. 
+
+###💳 Payment Methods Show Balanced Usage
+
+All payment methods generate similar revenue, with no significant dominance. This suggests that customer payment preferences are well distributed across available options.
+
+###🏷️ Discounts Have Minimal Impact on Purchase Value
+
+The difference in revenue per item between discounted and non-discounted transactions is minimal. This indicates that discounts may not significantly influence customer spending behavior.
+
+###🛒 Sales Channels Perform Relatively Evenly
+
+Revenue per item across sales channels is fairly consistent, with the website slightly leading. This suggests that no single channel overwhelmingly outperforms others, and performance is relatively balanced.
 
 
 
