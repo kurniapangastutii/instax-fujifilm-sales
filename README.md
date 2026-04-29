@@ -122,6 +122,18 @@ The difference in revenue per item between discounted and non-discounted transac
 
 Revenue per item across sales channels is fairly consistent, with the website slightly leading. This suggests that no single channel overwhelmingly outperforms others, and performance is relatively balanced.
 
+---
+
+## 🚀 Business Recommendation
+
+- Address recent slowdown – Monitor 2025 performance closely and focus promotions during peak periods (early year & weekends) to help stabilize growth
+
+- Reduce reliance on top products – Promote other products through bundling or cross-selling to create a more balanced revenue contribution
+
+- Optimize discount timing – Focus discount campaigns during peak periods (January, December, and weekends) to maximize impact, rather than applying discounts evenly throughout the year
+
+- Maintain channel & payment consistency – Since performance is relatively balanced, ensure all sales channels and payment methods remain optimized and available
+
 
 
 
