@@ -84,7 +84,7 @@ This project aims to:
   : Monitor total revenue, transactions, and quantity across different time periods
 
 * **Revenue Trend Analysis**
-  : Analyze full-year and year-to-date (YTD) revenue trends to identify growth patterns 
+  : Analyze full-year, year-to-date (YTD), monthly, and daily revenue trends to identify growth patterns 
 
 * **Product and Category Performance Analysis**
   : Identify top-performing products and categories based on revenue contribution 
