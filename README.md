@@ -40,5 +40,55 @@ This project aims to:
 - Evaluate sales performance
 - Identify key factors influencing revenue trends, including products, discounts, and customer payment behavior
 
+---
+## 📂 Data Overview
+
+- **Source**: Fujifilm Instax Sales Transaction Data (Synthetic) (Kaggle)  
+- **Period**: January 2023 – May 2025  
+- **Scope**:
+  - 10249 transactions
+  - 10 product names
+  - 3 product categories
+
+### Key Columns
+- `date`  
+- `category`
+- `product_name`  
+- `sales_channel`  
+- `payment_method`  
+- `base_price`  
+- `quantity`  
+- `discount`
+- `revenue` 
+
+---
+
+## 🛠 Tools & Technologies
+
+* SQL – Data cleaning and preparation
+* Python (Pandas) – Exploratory data analysis (EDA)
+* MS Excel - Quick validating EDA result
+* Power BI – Data visualization and dashboard creation
+
+
+---
+
+## 🔄 Project Workflow
+
+Raw Data
+   ↓
+SQL
+(Data Cleaning & Preparation)
+   ↓
+Python (Pandas)
+(Exploratory Data Analysis)
+   ↓
+Microsoft Excel
+(Validation)
+   ↓
+Power BI
+(Dashboard & Visualization)
+
+
 
 
