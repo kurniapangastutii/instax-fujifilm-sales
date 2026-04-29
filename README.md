@@ -105,6 +105,7 @@ This project aims to:
 ### 📈 Strong Growth, but Recent Slowdown
 ![instax_sales](images/instax_sales_monthly.png)
 ![instax_sales](images/instax_sales_daily.png)
+
 Revenue increased by 24.31% YoY (2023–2024), but early 2025 performance (Jan–May) has softened, signaling potential growth risks. Sales are highly seasonal, peaking in January and December and declining mid-year. Revenue also spikes on weekends, particularly Sunday, highlighting an opportunity to maximize promotions during high-traffic periods.
 
 ### 🏆 Revenue is Driven by a Few Key Products
