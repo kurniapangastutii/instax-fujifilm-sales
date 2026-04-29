@@ -11,3 +11,30 @@ The goal of this project is to understand sales performance, customer behavior, 
 ## 📈 Dashboard Preview
 
 ![Dashboard Preview](images/instax_sales_preview.png)
+
+The dashboard provides a comprehensive view of key business metrics, including:
+- Total Revenue  
+- Units Sold  
+- Transactions Number 
+- Average Order Value (AOV)
+- Year-over-Year (YoY) Growth (2023-2024)
+
+## ✏️ Business Problems
+
+The company has shown strong growth in previous years, but recent data indicate a possible slowdown. However, the reasons for this change remain unclear.
+
+To better understand the situation, several key questions need to be explored:
+
+- Is the recent decline part of a long-term trend or just a temporary change?
+- Which products are driving revenue, and are there any shifts in performance?
+- Do discounts meaningfully impact customer purchasing behavior?
+- How do customer preferences differ across payment methods and sales channels?
+
+Understanding these areas is essential to support better business decisions and sustain growth. 
+
+---
+## 🎯 Objective
+
+This project aims to:
+
+
