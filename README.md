@@ -75,7 +75,19 @@ This project aims to:
 
 ## 🔄 Project Workflow
 
-Raw Data → SQL → Python (EDA) → Excel (Validation) → Power BI (Dashboard)
+Raw Data
+   ↓
+SQL
+(Data Cleaning & Preparation)
+   ↓
+Python (Pandas)
+(Exploratory Data Analysis)
+   ↓
+Microsoft Excel
+(Validation)
+   ↓
+Power BI
+(Dashboard & Visualization)
 
 
 
