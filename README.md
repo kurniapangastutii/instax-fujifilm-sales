@@ -74,20 +74,8 @@ This project aims to:
 ---
 
 ## 🔄 Project Workflow
+<img width="166" height="200" alt="image" src="https://github.com/user-attachments/assets/8e44c619-7d6c-4828-9390-b830ba4b2a2b" />
 
-Raw Data
-   ↓
-SQL
-(Data Cleaning & Preparation)
-   ↓
-Python (Pandas)
-(Exploratory Data Analysis)
-   ↓
-Microsoft Excel
-(Validation)
-   ↓
-Power BI
-(Dashboard & Visualization)
 
 
 
