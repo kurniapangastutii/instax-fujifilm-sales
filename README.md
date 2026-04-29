@@ -80,7 +80,7 @@ This project aims to:
 
 ## 📊 Key Features
 
-* **Sales Performance Overview **
+* **Sales Performance Overview**
   Monitor total revenue, transactions, and quantity across different time periods
 
 * **Revenue Trend Analysis**
@@ -93,7 +93,16 @@ This project aims to:
  Evaluate the effectiveness of discount strategies on purchasing behavior 
 
 * **Payment Method Analysis**
- Understand customer preferences across different payment methods 
+ Understand customer preferences across different payment methods
+
+* **Sales Channel Analysis**
+  Identify which channel contributes most to revenue and growth opportunities
+
+---
+
+## 🔍 Key Insights
+
+
 
 
 
