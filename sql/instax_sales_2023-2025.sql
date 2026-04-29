@@ -1,2 +1,0 @@
-SELECT * FROM
-sales_2023_2025;
