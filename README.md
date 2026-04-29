@@ -37,4 +37,8 @@ Understanding these areas is essential to support better business decisions and 
 
 This project aims to:
 
+- Evaluate sales performance
+- Identify key factors influencing revenue trends, including products, discounts, and customer payment behavio
+
+
 
