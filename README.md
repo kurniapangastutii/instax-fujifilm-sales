@@ -133,7 +133,7 @@ Revenue per item across sales channels is fairly consistent, with the website sl
 - Optimize discount timing – Focus discount campaigns during peak periods (January, December, and weekends) to maximize impact, rather than applying discounts evenly throughout the year
 
 - Maintain channel & payment consistency – Since performance is relatively balanced, ensure all sales channels and payment methods remain optimized and available
-- 
+
 ---
 
 ## 📝 Conclussion
