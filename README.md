@@ -81,22 +81,22 @@ This project aims to:
 ## 📊 Key Features
 
 * **Sales Performance Overview**
-  Monitor total revenue, transactions, and quantity across different time periods
+  : Monitor total revenue, transactions, and quantity across different time periods
 
 * **Revenue Trend Analysis**
-  Analyze full-year and year-to-date (YTD) revenue trends to identify growth patterns 
+  : Analyze full-year and year-to-date (YTD) revenue trends to identify growth patterns 
 
 * **Product and Category Performance Analysis**
-  Identify top-performing products and categories based on revenue contribution 
+  : Identify top-performing products and categories based on revenue contribution 
 
 * **Discount Impact Analysis**
- Evaluate the effectiveness of discount strategies on purchasing behavior 
+ : Evaluate the effectiveness of discount strategies on purchasing behavior 
 
 * **Payment Method Analysis**
- Understand customer preferences across different payment methods
+ : Understand customer preferences across different payment methods
 
 * **Sales Channel Analysis**
-  Identify which channel contributes most to revenue and growth opportunities
+  : Identify which channel contributes most to revenue and growth opportunities
 
 ---
 
