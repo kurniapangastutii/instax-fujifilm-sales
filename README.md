@@ -104,7 +104,7 @@ This project aims to:
 
 ### 📈 Strong Growth, but Recent Slowdown
 
-Revenue has grown from 2023 to 2024 (+24.31%). Early 2025 performance (Jan–May) has weakened compared to last year, signaling a potential need for strategic adjustments to sustain growth.
+Revenue increased by 24.31% YoY (2023–2024), but early 2025 performance (Jan–May) has softened, signaling potential growth risks. Sales are highly seasonal, peaking in January and December and declining mid-year. Revenue also spikes on weekends, particularly Sunday, highlighting an opportunity to maximize promotions during high-traffic periods.
 
 ### 🏆 Revenue is Driven by a Few Key Products
 
