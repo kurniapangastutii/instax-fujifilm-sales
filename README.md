@@ -74,7 +74,8 @@ This project aims to:
 ---
 
 ## 🔄 Project Workflow
-<img width="166" height="200" alt="image" src="https://github.com/user-attachments/assets/8e44c619-7d6c-4828-9390-b830ba4b2a2b" />
+<img width="229" height="238" alt="image" src="https://github.com/user-attachments/assets/59a169fe-c946-4f57-9bdf-ceb6907c3458" />
+
 
 
 
