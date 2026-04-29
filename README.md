@@ -76,6 +76,25 @@ This project aims to:
 ## 🔄 Project Workflow
 <img width="229" height="238" alt="image" src="https://github.com/user-attachments/assets/59a169fe-c946-4f57-9bdf-ceb6907c3458" />
 
+---
+
+## 📊 Key Features
+
+* **Sales Performance Overview **
+  Monitor total revenue, transactions, and quantity across different time periods
+
+* **Revenue Trend Analysis**
+  Analyze full-year and year-to-date (YTD) revenue trends to identify growth patterns 
+
+* **Product and Category Performance Analysis**
+  Identify top-performing products and categories based on revenue contribution 
+
+* **Discount Impact Analysis**
+ Evaluate the effectiveness of discount strategies on purchasing behavior 
+
+* **Payment Method Analysis**
+ Understand customer preferences across different payment methods 
+
 
 
 
